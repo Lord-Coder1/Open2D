@@ -1,4 +1,8 @@
 # Open2D
+
+CURRENT CODE AVAILABLE IS BROKEN AND DO NOT USE FOR DEVELOPMENT OF COMMERCIAL PRODUCTS UNTIL 
+OFFICIAL BETA RELEASE 1.0. IN EARLY DEVELOPMENT.
+
 2D Game Engine Built in SDL 1.2 for a multiplatform game engine. 
 NOTE: SDL2 and OpenGL Direct Rendering WILL be used later on. These would replace the rough engine made in a month.
 
